@@ -1,4 +1,4 @@
-<style lang=less>
+<style>
   .map {
     width: 100%;
     height: 500px;
@@ -22,8 +22,6 @@
 
 <script>
   import $ from 'jQuery'
-  import 'bz-semantic-ui-card'
-  import 'bz-semantic-ui-grid'
   import QMapLocation from './Bz'
   import QMap from 'bz-qq-map'
 
