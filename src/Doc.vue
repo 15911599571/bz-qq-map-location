@@ -14,7 +14,7 @@
       :code="code"
       >
     </doc>
-      <q-map :map.sync="map" :config_map="configMap" class="map"></q-map>
+      <q-map v-model="map" :config_map="configMap" class="map"></q-map>
       <q-map-location :loc.sync="loc" ></q-map-location>
       <img @click="toLocation" id="location" class="ui image" src="./assets/icon_location.png"><img>
   </div>
