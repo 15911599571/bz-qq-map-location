@@ -1,6 +1,6 @@
-# bz-base
+# bz-qq-map-location
 
-> bz-base
+> bz-qq-map-location
 
 ## Build Setup
 
